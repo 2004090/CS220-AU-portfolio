@@ -61,11 +61,13 @@ How to use this GitHub repository as a template for your submission, including h
 - 2021-09-21 repo created. readme.md added and next steps in the todo heading defined
 
 <br>
-
 ## TODO
-<br> - starting on the essay 
-     - starting on creating the website by using Github pages
-     - Get familiar with using Github 
+<br> 
+- starting on the essay 
+     
+- starting on creating the website by using Github pages
+     
+- Get familiar with using Github 
 
 
 ## References
