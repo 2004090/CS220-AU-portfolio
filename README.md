@@ -64,10 +64,10 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## TODO
 <br>
-- starting on the essay 
-- starting on creating the website by using Github pages
-- Get familiar with using Github 
-- beautify index.
+starting on the essay 
+starting on creating the website by using Github pages
+Get familiar with using Github 
+
 
 ## References
 - White, D., 2013, Visitors and Residents, [http://daveowhite.com/vandr/vr-mapping/](http://daveowhite.com/vandr/vr-mapping/)
