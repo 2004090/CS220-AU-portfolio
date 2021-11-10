@@ -12,7 +12,7 @@ Note: I wrote this short bio to go with a recent journal publication where I was
 <br>
 
 ## social media links
-- [LinkedIn] https://www.linkedin.com/in/kevin-chen-3703b4200/
+- [LinkedIn](https://www.linkedin.com/in/kevin-chen-3703b4200/)
 - [Facebook](https://www.facebook.com/horngyaw.chen)
 
 Note: only link social media that you are happy for people to visit i.e. if your website gives information about a professional service, you should not link it to your social media account which is primarily for your personal use.
