@@ -5,7 +5,7 @@ The information below can be used as a template for your own home page.
 
 Hi! My name is Kevin Chen, or you can called me Kevin.  
 
-I am a student who is really interested in sociology and criminology. I am living in Thailand but I am a Taiwanese.
+I am a student who is really interested in sociology and criminology. I am currently living in Thailand but I am a Taiwanese.
 
 Note: I wrote this short bio to go with a recent journal publication where I was co-editor. On my personal website this bio is much shorter. Writing this bio (or abstract) is not easy, most people rewrite it very often before they consider it final for a specific purpose. So should you. Experiment and ask for feedback. 
 
