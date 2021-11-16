@@ -3,9 +3,9 @@ The information below can be used as a template for your own home page.
 ## Kevin Chen
 **Second year student majoring in Global Studies**  
 
-Hi! My name is Kevin Chen  
+Hi! My name is Kevin Chen, or you can called me Kevin.  
 
-I am a creative technologist working as a researcher, lecturer, freelancer and artist. Besides working on the Enhancing Audio Description project as a research assistant, my doctoral research developed brain-computer music interfaces for meditation, in which I link neurofeedback to auditory entrainment in generative soundscapes inspired by shamanic journeying. I have also been teaching music technology-related subjects (e.g. sonic art, sensor technology and music for the moving image) as an associate lecturer at the Anglia Ruskin University, Cambridge and the University of Bedfordshire and currently teach a module on sensemaking and digital identities at the School of Philosophy and Arts History at the University of Essex. As a freelancer and artist, I have been producing sound design and music, websites and visual art, including photography and paintings. 
+I am a student who is really interested in sociology and criminology. I am living in Thailand but I am a Taiwanese.
 
 Note: I wrote this short bio to go with a recent journal publication where I was co-editor. On my personal website this bio is much shorter. Writing this bio (or abstract) is not easy, most people rewrite it very often before they consider it final for a specific purpose. So should you. Experiment and ask for feedback. 
 
@@ -15,7 +15,6 @@ Note: I wrote this short bio to go with a recent journal publication where I was
 - [LinkedIn](https://www.linkedin.com/in/kevin-chen-3703b4200/)
 - [Facebook](https://www.facebook.com/horngyaw.chen)
 
-Note: only link social media that you are happy for people to visit i.e. if your website gives information about a professional service, you should not link it to your social media account which is primarily for your personal use.
 
 <br>
 
@@ -26,18 +25,15 @@ Note: only link social media that you are happy for people to visit i.e. if your
 <br>
 
 ## acedemic pages/associations/clubs
-- [Essex Staff Page](https://www.essex.ac.uk/people/HOFST49102/krisztian-hofstadter)
-- [StoryLab Team Page](https://storylabresearch.com/team/)
+- [Essex Blades Page](https://www.essexstudent.com/tabletennis/)
+- [Moodle](https://moodle.essex.ac.uk)
 
 <br>
 
 ## now
-- I just wrote a template for my students' [di-reflection](di-reflection.md)
-- working as a post-grad research assistant on [EAD](http://enhancingaudiodescription.com/)
-- running the [CSS220 module] (https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) at the University of Essex
-- making my final amendments to the my doctoral thesis on [BCMI](https://bcmi.khofstadter.com/)
-- working with Cambridge based educator, visual artist, [Rhea Quien](http://rq-art.com/)
-- resuming the [Tedor Tea](http://tedortea.com/) project linking Chinese tea to local art
+- I am currently working on my essay on Microsoft Words [di-reflection](di-reflection.md)
+- Studying as a second year student at University of Essex (/https://www.essex.ac.uk/)
+- Working on the website and digital portfolio (/https://github.com/2004090/) on Github
 
 <br>
 
