@@ -38,10 +38,10 @@ I am a university student who is really interested in sociology and criminology.
 
 | date | degree | institute |
 --- | --- | ---
-|ongoing|**Ph.D.** in Music |ARU, Cambridge School of Creative Industries|
-| ongoing | **PG Certificate** in Learning and Teaching <br> in Higher Education | ARU, School of Education and Social Care
-| 2013 | **MA** in Creative Music Technology for Media | ARU, Music and Performing Arts Department
-| 2009 | **BA** (Hons) - Creative Music Technology (1st) | ARU, Music and Performing Arts Department  |
+|ongoing|**BA** (Arts) |ISC, University of Essex|
+| 2019-2020 | **BA** | GSSE, School of Global Studies and Entrepreneurship |
+| 2017-2019 | **High School** | MUIDS, Mahidol University International Demonstration School
+| 2003-2017 | **Kindergarten - Junior High School** | SWB, Sarasas Witaed Bangbon School  |
 
 <br>
 
