@@ -5,9 +5,8 @@ The information below can be used as a template for your own home page.
 
 Hi! My name is Kevin Chen, or you can called me Kevin.  
 
-I am a student who is really interested in sociology and criminology. I am currently living in Thailand but I am a Taiwanese.
+I am a university student who is really interested in sociology and criminology. I am currently living in Thailand but I am originally from Taiwan. I am currently a second year student studying at the University of Essex majoring in Global Studies. I am happy to meet new people from every other countries. 
 
-Note: I wrote this short bio to go with a recent journal publication where I was co-editor. On my personal website this bio is much shorter. Writing this bio (or abstract) is not easy, most people rewrite it very often before they consider it final for a specific purpose. So should you. Experiment and ask for feedback. 
 
 <br>
 
@@ -19,8 +18,8 @@ Note: I wrote this short bio to go with a recent journal publication where I was
 <br>
 
 ## contact
-- k[dot]hofstadter[at]essex[dot]co[dot]uk
-- kris[at]khofstadter[dot]com
+- hc20726@essex.ac.uk
+- kevinzas2001@gmail.com
 
 <br>
 
@@ -33,7 +32,7 @@ Note: I wrote this short bio to go with a recent journal publication where I was
 ## now
 - I am currently working on my essay on Microsoft Words [di-reflection](di-reflection.md)
 - Studying as a second year student at University of Essex (/https://www.essex.ac.uk/)
-- Working on the website and digital portfolio (/https://github.com/2004090/) on Github
+- Working on the website on github pages and digital portfolio in index.md file (/https://github.com/2004090/) on Github
 
 <br>
 
