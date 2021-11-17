@@ -1,5 +1,3 @@
-The information below can be used as a template for your own home page. 
-
 ## Kevin Chen
 **Second year student majoring in Global Studies**  
 
