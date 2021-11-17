@@ -8,38 +8,38 @@ I am a university student who is really interested in sociology and criminology.
 
 <br>
 
-## social media links
+## Social media links
 - [LinkedIn](https://www.linkedin.com/in/kevin-chen-3703b4200/)
 - [Facebook](https://www.facebook.com/horngyaw.chen)
 
 
 <br>
 
-## contact
+## Contact
 - hc20726@essex.ac.uk
 - kevinzas2001@gmail.com
 
 <br>
 
-## acedemic pages/associations/clubs
+## Acedemic pages/associations/clubs
 - [Essex Blades Page](https://www.essexstudent.com/tabletennis/)
 - [Moodle](https://moodle.essex.ac.uk)
 
 <br>
 
-## now
+## Now
 - I am currently working on my essay on Microsoft Words [di-reflection](di-reflection.md)
 - Studying as a second year student at University of Essex (/https://www.essex.ac.uk/)
 - Working on the website on github pages and digital portfolio in index.md file (/https://github.com/2004090/) on Github
 
 <br>
 
-## educations
+## Educations
 
 | date | degree | institute |
 --- | --- | ---
 |ongoing|**BA** (Arts) |ISC, University of Essex|
-| 2019-2020 | **BA** | GSSE, School of Global Studies and Entrepreneurship |
+| 2019-2020 | **BA** (Arts) | GSSE, School of Global Studies and Entrepreneurship |
 | 2017-2019 | **High School** | MUIDS, Mahidol University International Demonstration School
 | 2003-2017 | **Kindergarten - Junior High School** | SWB, Sarasas Witaed Bangbon School  |
 
