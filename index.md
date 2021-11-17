@@ -3,7 +3,7 @@
 
 Hi! My name is Kevin Chen, or you can called me Kevin.  
 
-I am a university student who is really interested in sociology and criminology. I am currently living in Thailand but I am originally from Taiwan. I am currently a second year student studying at the University of Essex majoring in Global Studies. I am happy to meet new people from every other countries. 
+I am a university student who is really interested in sociology and criminology. I am currently living in Thailand but I am originally from Taiwan. I am currently a second year student studying at the University of Essex majoring in Global Studies. I am happy to meet new people from every other countries. In my freetime, I really enjoy watching different movies and also different documentaries about criminologies. 
 
 
 <br>
