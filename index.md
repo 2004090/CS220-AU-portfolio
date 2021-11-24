@@ -45,9 +45,9 @@ I am a university student who is really interested in sociology and criminology.
 
 <br>
 
-## work experience
-### research assistant positions
-#### StoryLab Research Institute
+## Work experience
+### Translation Job in Taiwan
+#### 
 
 11/2017 - 08/2021 &nbsp; &nbsp; ARU
 
