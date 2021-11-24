@@ -55,6 +55,7 @@ How to use this GitHub repository as a template for your submission, including h
 - 2021-10-21 looked into the github pages and understand the concepts of creating websites by using github pages
 - 2021-11-03 started on the draft of the essay on Microsoft Words
 - 2021-11-04 changed some of the information in index.md file 
+- 2021-11-20 continuing to work on the essay
 
 <br>
 
