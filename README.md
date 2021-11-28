@@ -60,12 +60,12 @@ How to use this GitHub repository as a template for your submission, including h
 
 <br>
 
-## TODO
-<br> 
+## TODO 
 - starting on the essay 
 - starting on creating the website by using Github pages
 - get familiar with using Github 
 - understanding the concepts of past, present and future digital identities
+- understand the structure on my own essay
 
 
 ## References
