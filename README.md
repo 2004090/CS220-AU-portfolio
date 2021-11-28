@@ -60,9 +60,10 @@ How to use this GitHub repository as a template for your submission, including h
 
 <br>
 
-## TODO
 
+## TODO
 <br> 
+
 - starting on the essay 
 - starting on creating the website by using Github pages
 - get familiar with using Github 
