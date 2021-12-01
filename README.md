@@ -66,6 +66,7 @@ How to use this GitHub repository as a template for your submission, including h
 - get familiar with using Github 
 - understanding the concepts of past, present and future digital identities
 - understand the structure on my own essay
+- trying to put the V&R map in my essay 
 
 
 ## References
