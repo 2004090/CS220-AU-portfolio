@@ -68,7 +68,7 @@ By addressing these objectives my V&R map will look as follows:
 
 <br>
 
-### Summery
+### Summary
 This writing reflected (or in this writing I reflected) on my understanding of
 
 1. digital identities in general and highlighted this and that
