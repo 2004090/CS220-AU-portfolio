@@ -53,6 +53,8 @@ How to use this GitHub repository as a template for your submission, including h
 - 2021-10-13 created an account on github and created two repositories, one public and one private 
 - 2021-10-20 started to get familiar with github
 - 2021-10-21 looked into the github pages and understand the concepts of creating websites by using github pages
+- 2021-10-22 started on creating the website using github pages
+- 2021-11-02 started on the essay
 - 2021-11-03 started on the draft of the essay on Microsoft Words
 - 2021-11-04 changed some of the information in index.md file 
 - 2021-11-20 get familiar with github and github pages, did some changes in index.md file
@@ -60,13 +62,11 @@ How to use this GitHub repository as a template for your submission, including h
 
 <br>
 
-## TODO 
-- starting on the essay 
-- starting on creating the website by using Github pages
-- get familiar with using Github 
+## TODO  
 - understanding the concepts of past, present and future digital identities
 - understand the structure on my own essay
 - trying to put the V&R map in my essay 
+- carry on working on the essay and website
 
 
 ## References
