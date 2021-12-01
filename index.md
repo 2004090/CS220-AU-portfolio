@@ -23,7 +23,7 @@ I am a university student who is really interested in sociology and criminology.
 
 ## Acedemic pages/associations/clubs
 - [Essex Blades Page](https://www.essexstudent.com/tabletennis/)
-- [Moodle](https://moodle.essex.ac.uk)
+
 
 <br>
 
@@ -31,7 +31,7 @@ I am a university student who is really interested in sociology and criminology.
 - I am currently working on my essay on Microsoft Words [di-reflection](di-reflection.md)
 - Studying as a second year student at University of Essex (/https://www.essex.ac.uk/)
 - Working on the website on github pages and digital portfolio in index.md file (/https://github.com/2004090/) on Github
-- University's online learning community (/https://moodle.essex.ac.uk/) called Moodle
+
 
 <br>
 
