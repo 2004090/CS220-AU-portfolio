@@ -3,7 +3,7 @@
 
 Hi! My name is Kevin Chen, or you can called me Kevin.  
 
-I am a university student who is really interested in sociology and criminology. I am currently living in Thailand but I am originally from Taiwan. I am currently a second year student studying at the University of Essex majoring in Global Studies. I would love to meet new people from every other countries. In my freetime, I really enjoy watching different movies and also different documentaries about criminologies. I also enjoy playing sports such as table tennis and badminton. Playing table tennis can reduce my stress at some point and it helps me put all my worries and stress behind.  
+I am a university student who is really interested in sociology and criminology. I am currently living in Thailand but I am originally from Taiwan. I am currently a second year student studying at the University of Essex majoring in Global Studies. I would love to meet new people from every other countries. In University of Essex, I learnt many things from different modules. In the first year of my university, my favourite module was Criminology,which it mentioned about different concepts and perspectives on why people committed crimes. I found this really surprising and interesting. In my freetime, I really enjoy watching different movies and also different documentaries about criminologies. I also enjoy playing sports such as table tennis and badminton. Playing table tennis can reduce my stress at some point and it helps me put all my worries and stress behind.  
 
 
 <br>
@@ -52,7 +52,6 @@ I am a university student who is really interested in sociology and criminology.
 
 11/2017 - 08/2021 &nbsp; &nbsp; ARU
 
-Besides my key responsibilities as a webmaster designing and maintaining the research institute's website ([http://storylabresearch.com](http://storylabresearch.com)), I have also been involved in organising events, social media engagement, data analysis, content editing, photography and audio-video post-production.
 
 #### Enhancing Audio Description project
 01/2018 – 04/2019 &nbsp; &nbsp; University of York, Theatre, Film and Television Department  
