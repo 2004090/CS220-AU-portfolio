@@ -59,14 +59,15 @@ How to use this GitHub repository as a template for your submission, including h
 - 2021-11-04 changed some of the information in index.md file 
 - 2021-11-20 get familiar with github and github pages, did some changes in index.md file
 - 2021-11-28 continuing working on the essay
+- 2021-12-04 understood the concept of past, present and future digital identities
+- 2021-12-06 put the V&R map in my essay
+- 2021-12-06 completed and understood the structure on my essay
 
 <br>
 
 ## TODO  
-- understanding the concepts of past, present and future digital identities
-- understand the structure on my own essay
-- trying to put the V&R map in my essay 
-- carry on working on the essay and website
+- carry on working on the website
+- trying to update every necessary information on different sections on Github
 
 
 ## References
