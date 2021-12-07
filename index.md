@@ -41,6 +41,7 @@ I am a university student who is really interested in sociology and criminology.
 --- | --- | ---
 |ongoing|**BA** (Arts) |ISC, University of Essex|
 | 2019-2020 | **BA** (Arts) | GSSE, School of Global Studies and Entrepreneurship |
+|   2019    | **GED** | General Education Diploma |
 | 2017-2019 | **High School** | MUIDS, Mahidol University International Demonstration School
 | 2003-2017 | **Kindergarten - Junior High School** | SWB, Sarasas Witaed Bangbon School  |
 
@@ -50,7 +51,7 @@ I am a university student who is really interested in sociology and criminology.
 ### Translation Job in Taiwan
 #### 
 
-11/2017 - 08/2021 &nbsp; &nbsp; ARU
+11/2017 - 08/2021
 
 
 #### Enhancing Audio Description project
