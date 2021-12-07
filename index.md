@@ -54,21 +54,10 @@ I am a university student who is really interested in sociology and criminology.
 11/2017 - 08/2021
 
 
-#### Enhancing Audio Description project
-01/2018 – 04/2019 &nbsp; &nbsp; University of York, Theatre, Film and Television Department  
-04/2016 – 10/2017 &nbsp; &nbsp; Cultures of the Digital Economies (CoDE) Research Institute, ARU  
 
-My key responsibilities in this role included organising events, engagement with organisations and participants, qualitative and quantitative data analysis, web design and maintenance, photography, audio-video production and co-authoring journal papers. The project is documented at [http://enhancingaudiodescription.com](http://enhancingaudiodescription.com).
 
-<br>
 
-### associate lecturing positions
 
-#### Sonic art (ARU)
-01/2019 – 06/2019  &nbsp; &nbsp; A 15 credit module where the cohort discussed the theoretical and practical aspects of sonic art and then produced work around these ideas. 
-
-#### Music for the moving image (ARU)
-09/2016 – 01/2017; 09/2017 – 01/2018; 09/2018 – 01/2019 &nbsp; &nbsp; A 15 credit module that allowed students to create original music and sound design linked to poetry, short films and video games using acoustic and computer-based methods of composition.
 
 <br>
 
