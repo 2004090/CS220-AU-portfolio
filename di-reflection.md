@@ -2,7 +2,7 @@ Student number: 2004090
 Module code: CS220 AU  
 Coursework title: Reflection on Digital Identities  
 Marker: Krisztian Hofstadter  
-GitHub repository URL: 
+GitHub repository URL: https://2004090.github.io/CS220-AU-portfolio/
 
 ### Reflection on Digital Identities
 
