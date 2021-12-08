@@ -19,6 +19,8 @@ This is my current V&R map which shows that how I use and engage in different on
 The digital identities of mine has changed greatly since I was a teenager. As a teenager, I mostly used online platforms for academic research and the only entertainment activity would be using YouTube. My digital identities in the past were mostly spending time online with games and different videos on YouTube. As I grow older, I spent more time online researching for academic purposes and at the same I would also spend some time on different entertainment platforms such as Netflix and YouTube and social media such as Instagram, Facebook and TikTok. My objectives for my future digital identities will be to explore more online platforms within the institutional area and try to explore more platforms to put in my V&R map. Furthermore, I will try to list out more interesting apps and make a professionally build V&R map. 
 
 
+
+
 ### Questions you should/could export 
 - do I know people who are much older than me and can use technology efficiently e.g. the Web more efficiently?
 - what does it actually mean "to use the Web more efficiently"?
