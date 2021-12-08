@@ -3,7 +3,7 @@
 
 Hi! My name is Kevin Chen, or you can called me Kevin.  
 
-I am a university student who is really interested in sociology and criminology. I am currently living in Thailand but I am originally from Taiwan. I am currently a second year student studying at the University of Essex majoring in Global Studies. I would love to meet new people from every other countries. In University of Essex, I learnt many things from different modules. In the first year of my university, my favourite module was Criminology,which it mentioned about different concepts and perspectives on why people committed crimes. I found this really surprising and interesting. In my freetime, I really enjoy watching different movies and also different documentaries about criminologies. I also enjoy playing sports such as table tennis and badminton. Playing table tennis can reduce my stress at some point and it helps me put all my worries and stress behind.  
+I am a university student who is really interested in sociology and criminology. I am currently living in Thailand but I am originally from Taiwan. I am currently a second year student studying at the University of Essex majoring in Global Studies. I would love to meet new people from every other countries. In University of Essex, I learnt many things from different modules. In the first year of my university, my favourite module was Criminology, which it mentioned about different concepts and perspectives on why people committed crimes. I found this really surprising and interesting. In my freetime, I really enjoy watching different movies and also different documentaries about criminologies. I also enjoy playing sports such as table tennis and badminton. Playing table tennis can reduce my stress at some point and it helps me put all my worries and stress behind.  
 
 
 <br>
@@ -62,11 +62,7 @@ I am a university student who is really interested in sociology and criminology.
 <br>
 
 ## other relevant experience
-### music technical officer at ARU
-03/2015 – 04/2016 &nbsp; &nbsp; My key responsibilities were maintaining music, computer and audio resources, giving efficient and flexible technical support to students and staff as well as organising academic conferences and events.
 
-### sole trader at Tedör Tea
-2015 – ongoing &nbsp; &nbsp; I have been operating an independent tea company set up in Cambridge that imports health-giving Chinese teas and combines it with a variety of artworks produced by local artists. More info at [http://tedortea.com](http://tedortea.com).
 
 <br>
 
