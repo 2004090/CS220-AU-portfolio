@@ -1,4 +1,10 @@
-### Student Number: 2004090
+Student number: 2004090
+Module code: CS220 AU
+Coursework title: Reflection on Digital Identities
+Marker: Krisztian Hofstadter
+GitHub repository URL:
+
+
 
 Nowadays, we are currently living in a world with different kinds of technologies. We use the internet every day on our daily basis, but how can we identify our digital identities? It might be a difficult question for most of the people, but digital identities are like our footprints within different websites. We can do many different things on the internet, and we can also use it in different ways. Rather than using the internet only for researching, we can use it to exchange opinions with other internet users. As a matter of fact, digital identities can be the evidence showing who you are as an individual on the internet, when you are using various services online. Digital identities can also provide security while using systems online. 
 
