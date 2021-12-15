@@ -69,4 +69,4 @@ I am a university student who is really interested in sociology and criminology.
 
 <br><br> 
 
-My full CV can be found [here](https://khofstadter.com/assets/doc/KHofstader-CV.pdf).
+My full CV can be found [here](https://2004090.github.io/CS220-AU-portfolio/).
