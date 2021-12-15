@@ -18,13 +18,14 @@
 - 2021-12-06 put the V&R map in my essay
 - 2021-12-06 completed and understood the structure on my essay
 - 2021-12-07 sent the essay to the lecturer and waiting for feedback
+- 2021-12-09 sent the essay to Christian for peer assessment 
 
 <br>
 
 ## TODO  
 - carry on working on the website
 - trying to update every necessary information on different sections on Github
-- send the essay and website for peer assessment 
+- trying to edit my essay and put my second V&R map
 
 
 ## References
