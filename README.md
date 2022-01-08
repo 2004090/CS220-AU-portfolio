@@ -22,7 +22,7 @@
 - 2021-12-29 discuss with Christian about the peer assessment 
 - 2021-12-31 Christian sent the essay to me to do the checking for peer assessment
 - 2022-01-07 Christian sent the website to me to do the checking for peer assessment
-- 2022-01-08 Edited the essay and created the second V&R map figure 
+- 2022-01-08 edited the essay and created the second V&R map figure 
 
 <br>
 
