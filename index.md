@@ -48,20 +48,27 @@ I am a university student who is really interested in sociology and criminology.
 <br>
 
 ## Work experiences
-### Translation Job in Taiwan
-#### 
+### Translation Job in Taiwan (Translator in the machinery market)
+#### 2017-2019
+ - Work with different clients from Thailand
+ - Ensured the successful purchasing of screws and nuts sorting machines
+ - Assisted as a translator between the Taiwan suppliers and Thai clients
+  
+ 
+## Other relevant experience
+## Forensic Science Summer Course
+### University of New Haven |May 2017 - July 2017|
+- Studied in one of the well known universities for criminology and forensic science in New York  
+- Understood different concepts on why people committed crimes and how they did it 
+- Learnt the ability to work under pressure and being able to overcame the challenges 
 
+## Silent Flim Competition
+## 2018
+- Won the first place in the Penny Awards Competition for the 2018 Best Short Silent Flim
 
-
-
-
-
-
-
-
-<br>
-
-## other relevant experience
+## Table Tennis Competition 
+## 2018
+- Won the third place in the High School Table Tennis Tournament in 2018
 
 
 <br>
