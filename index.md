@@ -58,7 +58,8 @@ I am a university student who is really interested in sociology and criminology.
 ## Other relevant experience
 
 Forensic Science Summer Course
-University of New Haven |May 2017 - July 2017|
+University of New Haven 
+## |May 2017 - July 2017|
 - Studied in one of the well known universities for criminology and forensic science in New York  
 - Understood different concepts on why people committed crimes and how they did it 
 - Learnt the ability to work under pressure and being able to overcame the challenges 
