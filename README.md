@@ -1,5 +1,5 @@
 ## Overview 
-
+ On this Github repository, you can see all the information about me as an individual. From different personal details to different experiences, will be present in this Github repository. Below is my log, which shows my progress throughout the process of creating this Github repository.  
 
 
 
