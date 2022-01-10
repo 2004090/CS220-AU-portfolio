@@ -24,7 +24,7 @@ Since I was a teenager, my digital identities have evolved dramatically. As a te
 Figure 2: 
 
 
-![V R Map Figure 2](https://user-images.githubusercontent.com/92858097/148801239-dae8c4be-2625-4b65-b8f5-1cdd084b8046.jpg)
+![V R Map Figure 2](https://user-images.githubusercontent.com/92858097/148801472-415a1653-0487-4205-a32e-563c75e77bb6.jpg)
 
 
 
