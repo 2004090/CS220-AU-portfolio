@@ -19,15 +19,15 @@ The V&R map above that I have created is how I engage online with different plat
 
 This is my current V&R map, which shows how I use and engage in different online activities and platforms. The usage between personal and institutional are divided equally. Around the personal/resident mode is how I usually engage online with varying types of social media, which I often use daily. As you can see on the V&R map, I put two emails in two different areas, one in personal/visitor and one in institutional/visitor. The reason for this is that the email in my area is mainly used for emails from entertainment systems, fashions, games, news, and daily usages. But the one in the institutional/visitor is the email used for university, which is primarily institutional information, information from lecturers and data from different departments in the university. Most of the online platforms in the institutional/visitor and resident area are mainly used for the university. And other online activities and media are used for personal research and personal entertainment. 
 
-Since I was a teenager, my digital identities have evolved dramatically. As a teenager, I mostly used online platforms for academic research, with YouTube serving as my only source of entertainment. In the past, my digital identities were primarily formed by spending time online playing games and watching various YouTube videos. As I got older, I spent more time online researching for school. At the same time, I would spend time on various entertainment platforms such as Netflix and YouTube, as well as social media platforms such as Instagram, Facebook, and TikTok. My future digital identity objectives will be to explore more online platforms within the institutional area and to try to explore more platforms to add to my V&R map. 
+Since I was a teenager, my digital identities have evolved dramatically. As a teenager, I mostly used online platforms for academic research, with YouTube serving as my only source of entertainment. In the past, my digital identities were primarily formed by spending time online playing games and watching various YouTube videos. As I got older, I spent more time online researching for school. At the same time, I would spend time on various entertainment platforms such as Netflix and YouTube, as well as social media platforms such as Instagram, Facebook, and TikTok. My future digital identity objectives will be to explore more online platforms within the institutional area and to try to explore more platforms to add to my V&R map.
+
+
+Figure 2: 
 
 
 
 
 
 
-
-### Thoughts
-- maybe also have the two maps next to each other for easy comparison
 
 
