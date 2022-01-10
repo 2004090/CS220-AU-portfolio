@@ -24,8 +24,7 @@ Since I was a teenager, my digital identities have evolved dramatically. As a te
 Figure 2: 
 
 
-[V&R Map Figure 2.pdf](https://github.com/2004090/CS220-AU-portfolio/files/7840272/V.R.Map.Figure.2.pdf)
-
+![V R Map Figure 2](https://user-images.githubusercontent.com/92858097/148801239-dae8c4be-2625-4b65-b8f5-1cdd084b8046.jpg)
 
 
 
