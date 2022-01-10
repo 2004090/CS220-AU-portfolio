@@ -73,6 +73,15 @@ I am a university student who is really interested in sociology and criminology.
 - Won the third place in the High School Table Tennis Tournament in 2018
 
 
+## Other interests
+
+I have a strong interest in cars since I was a kid. I could easily recognized different car brands and their different models. Since then I have a strong passion on learning things about cars. I love to watch videos and reviews about different upcoming models and brands in various countries. I have a dream to start a business in manufacturing fasterners and parts of vehicles.
+
+![G63](https://user-images.githubusercontent.com/92858097/148804353-1a3b704c-6b27-4ea8-8d20-7a03b8f1280b.jpeg)
+
+This will be a picture of my dream car for now. I have loved the brand Mercedes Benz since I was a child. Not only loving the brand but also the performance and the craftmanship of the cars in different models. 
+
+
 <br>
 
 
