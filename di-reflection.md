@@ -27,5 +27,8 @@ Figure 2:
 ![V R Map Figure 2](https://user-images.githubusercontent.com/92858097/148801472-415a1653-0487-4205-a32e-563c75e77bb6.jpg)
 
 
+I have improved a few details on the second V&R map figure which most of the online platforms are still the same as the first V&R map figure. 
+
+As shown above, this is how my future V&R map will be and it will show how I will engage on online platforms in the future. Both the personal and institutional email will be move to the middle of the map because I will be engaging as a visitor and sometimes as a resident depending on the subject, along with Outlook and OneDrive. Social media platforms will nearly be at the same place, but WhatsApp will become more personal for me. This is possibly how my future identities will be for now. 
 
 
