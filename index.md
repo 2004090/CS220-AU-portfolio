@@ -79,7 +79,7 @@ I have a strong interest in cars since I was a kid. I could easily recognized di
 
 ![G63](https://user-images.githubusercontent.com/92858097/148804353-1a3b704c-6b27-4ea8-8d20-7a03b8f1280b.jpeg)
 
-This will be a picture of my dream car for now. This is a G63 with a twin-turbo 4.0 litres V8 engine and is capable for offroading. With the appearance similar to a military vehicle, it is a high performance vehicle with much power, many safety features and an iconic design both on the exteriors and the interiors. I have loved the brand Mercedes Benz since I was a child. Not only loving the brand but also the performance and the craftmanship of the cars in different models. 
+This will be a picture of my dream car for now. This is a G63 with a twin-turbo 4.0 litres V8 engine and is capable for normal and extreme offroading. With the appearance similar to a military vehicle, it is a high performance vehicle with much power, many safety features and an iconic design both on the exteriors and the interiors. I have loved the brand Mercedes Benz since I was a child. Not only loving the brand but also the performance and the craftmanship of the cars in different models. 
 
 
 <br>
