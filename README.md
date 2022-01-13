@@ -33,6 +33,10 @@
 - being able to do the peer assessment and going through the peer assessment checklist
 
 
-## References
-- White, D., 2013, Visitors and Residents, [http://daveowhite.com/vandr/vr-mapping/](http://daveowhite.com/vandr/vr-mapping/)
-- Hofstadter, K., 2019, [Self and peer assessment tool and rationale](https://khofstadter.com/assets/doc/Hofstadter-2019-self-and-peer-assessment-tool-and-rationale.pdf).
+## References for the reflection on digital identities 
+- Prensky, M. 2001 “Digital Natives, Digital Immigrants” MCB University Press. Accessed December 21st, 2021. Available online: https://www.marcprensky.com/writing/Prensky%20-%20Digital%20Natives,%20Digital%20Immigrants%20-%20Part1.pdf
+
+- White, D. and Le Cornu, A. 2011 “Visitors and Residents: A new typology for online engagement” First Monday, Volume 16, Number 9 – 5 September 2011. Accessed December 25th, 2021. Available online: http://firstmonday.org/ojs/index.php/fm/article/view/3171/3049
+
+
+
