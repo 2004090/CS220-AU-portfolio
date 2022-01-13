@@ -24,13 +24,15 @@
 - 2022-01-07 Christian sent the website to me to do the checking for peer assessment
 - 2022-01-08 edited the essay and created the second V&R map figure 
 - 2022-01-10 added second V&R map into the essay and put additional information into the website portfolio
+- 2022-01-11 added additional interests and information on the website
+- 2022-01-12 completed the essay and put in the references
+- 2022-01-12 sent the essay and website to Christian for peer assessment
+- 2022-01-13 went through github and did the final check
 
 <br>
-
 ## TODO  
-- carry on working on the website
-- going through the final checklist
-- being able to do the peer assessment and going through the peer assessment checklist
+- complete the website 
+- complete the peer assessment
 
 
 ## References for the reflection on digital identities 
